@@ -1,0 +1,49 @@
+{
+  "name": "horseracing",
+  "version": "1.0.0",
+  "description": "Horse racing Test for betsson ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samczar/horseRacing.git"
+  },
+  "keywords": [
+    "React.js",
+    "Typescript",
+    "WebPack",
+    "Horse",
+    "Riding",
+    "Compomnents"
+  ],
+  "author": "Chibuzo Samson Anyanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samczar/horseRacing/issues"
+  },
+  "homepage": "https://github.com/samczar/horseRacing#readme",
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "axios": "^0.18.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "css-loader": "^2.1.1",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
